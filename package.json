@@ -1,0 +1,7 @@
+{
+  "name": "chrome-extension-word-replacement-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a boilerplate for a simple Chrome extensions that replaces text on the page with something else",
+  "author": "Bernat Martinez Vidal",
+  "license": "UNLICENSED"
+}
